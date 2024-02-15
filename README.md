@@ -1,2 +1,2 @@
 # rp-menu
-riszponzív html menu
+reszponzív html menu

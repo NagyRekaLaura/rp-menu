@@ -1,0 +1,12 @@
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    gap: 10px;
+}
+
+nav a{
+    color: aqua;
+}
